@@ -1,3 +1,16 @@
+v0.7: (July 7, 2018)
+- Trainer Engine updated to 6.8.1
+- added Profile System (BETA)
+- added refresh rate setting to Custom Pointers
+- fixed Hyper Rock CRC Bypass error when enabling
+- the Checkpoint is now more clear in what it is asking for
+- fixed trainer refusing to allow attaching with Enforce Bypass unchecked and no dinput8.dll present in the specified directory
+- custom Pointers now auto-saves any changes made to it
+- added support for Mob Filter, Spectral Skills Bypass, Auto Claim Ark Coins, Timed Godmode
+- fixed issues causing No Cooldown, Pet Feed, Constant Blazing Extinction Attack, Freeze Blazing Extinction, Instant Spawn Blazing Extinction, No Delay Blazing Extinction, Unlimited Blazing Extinction from not activating when enabled
+- minor statistical additions to the Log
+- updated the default Item Filter list
+
 v0.6: (May 20, 2018)
 - temporarily disabled Authentication Key stage
 - temporarily disabled "Use Lower Memory" setting; added an option to manually clean memory (File > Clean Memory)

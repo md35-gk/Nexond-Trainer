@@ -1,3 +1,12 @@
+v0.7r1: (July 24, 2018)
+- additions and changes to the Log
+- the Disable All function no longer disables MSCRC Bypass, if previously enabled (you can no longer detach automatically if MSCRC Bypass is still enabled)
+- Profile System now supports the saving of MSCRC Bypass, Auto Inner Ability, Pet Feed, Force Summon to Attack, Hide Player Damage, Auto Claim Ark Coins, Wonderoid Unlimited Connection
+- renamed Event tab to Misc
+- confirmation added to Clean Memory
+- added option to Reset the trainer
+- added Hash checking
+
 v0.7: (July 7, 2018)
 - Trainer Engine updated to 6.8.1
 - added Profile System (BETA)

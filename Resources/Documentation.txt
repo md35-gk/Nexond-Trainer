@@ -1,0 +1,11 @@
+Nexon'd Trainer unleashes its most powerful feature to date: the Lua Injection function.
+
+Now, you can utilize the power of CE Lua with the framework of Nexon'd Trainer to truly make the trainer unique to you. Want to add new features by yourself? More checkboxes? Different colors? Now you can!
+
+With the release of this feature, many aspects will be limited. If by chance you encounter the message "Error: Lua script is forbidden", then you tried to use a forbidden function. Forbidden functions, when injected, may cause severe issues for the trainer and may cause other problems.
+
+---
+
+DOCUMENTATION IS AS BELOW, aside from https://raw.githubusercontent.com/cheat-engine/cheat-engine/master/Cheat%20Engine/bin/celua.txt :
+
+To be added.

@@ -1,3 +1,15 @@
+v0.8: (August 26, 2018)
+- UI changes and organization 
+- fixed Select Process so it can only be opened one time when attaching 
+- added support for Skill Injection v2, Melee Skill Injection, Magic Skill Injection, Shoot Skill Injection, Auto Key v2, Mob Speed Up, Map Speed Up, Kami, Mouse Camera Control, Familiar No Delay Attack, Monkey Spirits No Delay v2, Clear Field UI, Beholder Infinite Heal, Spam Homing Beacon, Instant Collision 
+- added support for Level, Mesos, and Skill ID Pointer scripts to Custom Pointers 
+- allow adjustments to Custom Pointer outcomes (e.g. add/subtract a set value to/from outcome) 
+- fixed an issue where the Profile System did not load Jr Boogie Unlimited MP's value correctly 
+- added Nexon'd Trainer Tips (e.g. MapleTips knockoff) 
+- added Auto Assembler 
+- added Mano, Stumpy, and Mr. Alli to the Auto Familiar dropdown 
+- added Local Script Loading (Local Control) and option to Reload All Scripts without restarting the trainer
+
 v0.7r1: (July 24, 2018)
 - additions and changes to the Log
 - the Disable All function no longer disables MSCRC Bypass, if previously enabled (you can no longer detach automatically if MSCRC Bypass is still enabled)

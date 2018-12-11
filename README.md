@@ -1,6 +1,6 @@
 # Nexon'd Trainer [BETA] -- A Universal MapleStory Trainer
 
-Nexon'd Trainer is a generic MapleStory trainer framework that can be used with any region and any version of MapleStory. The way this works is unique to Nexon'd Trainer in that it retrieves supported scripts from a defined GitHub repository, such as the [GMS Script Bank](https://github.com/md35-gk/GMS-Script-Bank). Nexon'd Trainer is the descendant of [Simple Trainer](https://github.com/md35-gk/Simple-Trainer) and will be more customizable.
+Nexon'd Trainer is a generic MapleStory trainer framework that can be used with any region and any version of MapleStory. The way this works is unique to Nexon'd Trainer in that it retrieves supported scripts from a defined GitHub repository, such as the [GMS Script Bank](https://github.com/md35-gk/GMS-Script-Bank). Nexon'd Trainer is the descendant of [Simple Trainer](https://github.com/md35-gk/Simple-Trainer), both created by md35.
 
 ![Nexon'd Trainer Image](https://i.gyazo.com/71dd89a9a2c2fc2dda7598782fbe74d1.png)
 
@@ -33,7 +33,7 @@ Next, you will want to configure the Load.ini file, which contains the list of a
 3. Start up Nexon'd Trainer.exe with administrative rights. If this is not your first time using the trainer, skip to Step 4. Otherwise, you will be prompted for additional required set-up steps:
 
 - Complete the Security Checkpoint, which deters fraudulent activities involving the trading, selling, or re-posting/distribution of the trainer.
-  - **Note:** The domain name is something like "example.com". Do not include anything before, or after, the domain name, including the forward slashes.
+  - **Note:** The domain name is something like "website.net". Do not include anything before, or after, the domain name, including the forward slashes.
 - Read and agree to the Disclaimer and Terms of Use.
 - Complete the Trainer Settings and GitHub Settings tabs.
   - You can refer to [this image](https://i.imgur.com/2fMO8UZ.png) for guidance.
@@ -54,6 +54,16 @@ If you choose to download the newer version, keep in mind the following:
 
 You will be prompted to re-Save the trainer settings to confirm that your settings were not altered in the update.
 
+## Updating for Game Updates
+
+When MapleStory is updated, it is important to update the scripts being used. Failure to do so will result in crashes or bans. To update scripts, go ahead and use any Memory Scanner software, like Cheat Engine, to scan for Array of Bytes (AoBs) indicated on the scripts. Update each script as needed (please Google if you need help), and appropriately adjust anything in the GitHub Settings tab of the trainer.
+
+Keep in mind the following:
+- The official Script Bank (the default), can only be updated by approved contributors. If you have already forked a copy of the repo to your account, you can submit a Pull Request as indicated in several README files in the Script Bank.
+- Scripts can be updated and used locally as long as you have "Local" set in the trainer's Local Control section.
+
+After scripts and Settings have been updated, you can restart the trainer to load them in!
+
 ## Support
 
 You are free to leave questions and comments on the official trainer thread, or on our Discord (which can be found on the thread). **Keep in mind that trivial questions that can be answered by looking at this page or on the trainer thread *will be ignored*. Such questions on our Discord will lead to consequences.** We are not here to spoonfeed you, regardless of the fact that this tool is being provided to you free of charge.
@@ -61,10 +71,6 @@ You are free to leave questions and comments on the official trainer thread, or 
 ## Plans for the Future
 
 Nexon'd Trainer is an on-going project. Improvements will always be made to the base application. The following features are planned, but *may never be added*, depending on the direction the trainer goes.
-- Local script loading
-- Auto Assembler
-- ID Search System
-- Lua Injection
 - DLL Injection
 - Multi-Hotkey System
 - and more (give your suggestions on our Discord!)

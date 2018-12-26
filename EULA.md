@@ -33,5 +33,10 @@ This EULA agreement is effective from the date you first use the Software and sh
 
 It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 
+## Changes to the EULA
+As the Software may undergo changes over time, md35 needs the right to modify this EULA to match the changing functionalities of the Software. You therefore agree that md35 may change this EULA at any time without prior notice other than posting an updated EULA to the Nexon'd Trainer Github repository, within the Software, or within the extraction archive. md35 will endeavor to provide you with prior notice when there are any material changes, and may require that you subsequently take an affirmative action acknowledging agreement to the revised EULA before continuing to access the Software. The revised EULA will become effective at the time of posting on the Software, and your use of the Software after such time will constitute your acceptance of the revised EULA. If any change to this EULA is not acceptable to you, then your sole remedy is to stop using the Software.
+
 ## Governing Law
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the United States of America.
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the United States.
+
+#### This EULA was last updated, and is effective on: December 25, 2018

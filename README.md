@@ -2,7 +2,7 @@
 
 Nexon'd Trainer is a generic MapleStory trainer framework that can be used with any region and any version of MapleStory. The way this works is unique to Nexon'd Trainer in that it retrieves supported scripts from a defined GitHub repository, such as the [GMS Script Bank](https://github.com/md35-gk/GMS-Script-Bank). Nexon'd Trainer is the descendant of [Simple Trainer](https://github.com/md35-gk/Simple-Trainer), both created by md35.
 
-![Nexon'd Trainer Image](https://i.gyazo.com/71dd89a9a2c2fc2dda7598782fbe74d1.png)
+![Nexon'd Trainer Image](https://i.gyazo.com/367eb6645af8bed622392f768cbfe3a4.png)
 
 ## Getting Started
 
@@ -22,8 +22,8 @@ In order to use Nexon'd Trainer, you must satisfy the following requirements:
 
 Installation is simple, but new users to the MapleStory cheating scene may have more difficulty setting the trainer up. **Please read this section carefully.**
 
-1. Download Nexon'd Trainer as a .ZIP file from the given download link in the official thread where you can find Nexon'd Trainer.
-2. Un-zip and extract the contents anywhere on your PC using the password found in the same thread.
+1. Download the Nexon'd Trainer Extractor executable from the given download link in the official thread where you can find Nexon'd Trainer.
+2. Open the executable and follow the extraction process. Use the password found in the official thread to complete the extraction.
 
 Next, you will want to configure the Load.ini file, which contains the list of all script names the trainer supports and loads in during the initialization process. Keep in mind the following:
 
@@ -32,11 +32,11 @@ Next, you will want to configure the Load.ini file, which contains the list of a
 
 3. Start up Nexon'd Trainer.exe with administrative rights. If this is not your first time using the trainer, skip to Step 4. Otherwise, you will be prompted for additional required set-up steps:
 
-- Complete the Security Checkpoint, which deters fraudulent activities involving the trading, selling, or re-posting/distribution of the trainer.
-  - **Note:** The domain name is something like "website.net". Do not include anything before, or after, the domain name, including the forward slashes.
-- Read and agree to the Disclaimer and Terms of Use.
+- Complete the Checkpoint, which deters fraudulent activities involving the trading, selling, or re-posting/distribution of the trainer.
+  - **Note:** This step was re-made to be straightforward. You have 120 seconds to complete this part.
+- Read and agree to the EULA, Privacy Policy, and Disclaimer.
 - Complete the Trainer Settings and GitHub Settings tabs.
-  - You can refer to [this image](https://i.imgur.com/2fMO8UZ.png) for guidance.
+  - You can refer to [this image](https://i.imgur.com/2fMO8UZ.png) for guidance (this image may be outdated, but should still guide you through this part).
   - If you are using your own GitHub repository, be sure to make necessary changes based on the image above.
   - Once completed, Save the trainer settings and restart the trainer.
   
@@ -48,7 +48,7 @@ Next, you will want to configure the Load.ini file, which contains the list of a
 When Nexon'd Trainer has new versions released (signified by a Build version change), a prompt will appear on start-up that will allow you to be redirected to the download thread, or ignore the new update.
 
 If you choose to download the newer version, keep in mind the following:
-- Included with the .ZIP file comes with a "README - Updating to new version Instructions", which will tell you what has changed in this update.
+- Included with the extracted archive comes with a "README - Updating to new version Instructions", which will tell you what needs to be done to properly update to the newer version.
 - Most of the time, only the trainer executable was updated, and so only the existing trainer that you have needs to be replaced by the new one.
 - If changes were made to other files, such as Load.ini, appropriate how-to-update instructions are given in that README file.
 
@@ -78,10 +78,6 @@ Nexon'd Trainer is an on-going project. Improvements will always be made to the 
 ## Contributing
 
 While Nexon'd Trainer is a closed source, single person project, any help with providing or updating scripts for the [GMS Script Bank](https://github.com/md35-gk/GMS-Script-Bank) is highly appreciated. You will be credited in the trainer's About tab.
-
-## Copyright
-
-You have no permission from the creator(s) of Nexon'd Trainer to distribute, modify, or extract content from the software, as stated in the Terms of Use in the trainer. Permission for such activites will not be granted under any circumstance.
 
 ## Donate
 

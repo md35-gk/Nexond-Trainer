@@ -1,3 +1,15 @@
+v0.9: (December 26, 2018)
+- fixed the following issues:
+--- Monkey Spirits No Delay's delay textfield can now be edited
+--- updated Pointer Scripts' help hint
+--- Vellum Freeze now properly loads into the trainer, and can be used
+- added ID Search Tool
+- added Lua Injection
+- trainer now checks for valid @Version file in specified GitHub folder before downloading scripts
+- added support for Air Check and Attack On Rope, Mob Fall Down, No Weather
+- Use Lower Memory setting now works as intended
+- added two more Trainer Settings: Auto Load Lua File, No Log Export Prompt
+
 v0.8: (August 26, 2018)
 - UI changes and organization 
 - fixed Select Process so it can only be opened one time when attaching 

@@ -1,5 +1,7 @@
 # Nexon'd Trainer [BETA] -- A Universal MapleStory Trainer
 
+### Notice: Nexon'd Trainer is no longer updating and support has been dropped until further notice. The trainer will no longer start up.
+
 Nexon'd Trainer is a generic MapleStory trainer framework that can be used with any region and any version of MapleStory. The way this works is unique to Nexon'd Trainer in that it retrieves supported scripts from a defined GitHub repository, such as the [GMS Script Bank](https://github.com/md35-gk/GMS-Script-Bank). Nexon'd Trainer is the descendant of [Simple Trainer](https://github.com/md35-gk/Simple-Trainer), both created by md35.
 
 ![Nexon'd Trainer Image](https://i.gyazo.com/367eb6645af8bed622392f768cbfe3a4.png)
